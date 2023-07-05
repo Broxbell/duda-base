@@ -1,7 +1,7 @@
 {
-  "name": "DUDA-BOT-MD",
+  "name": "KARLA-BOT-MD",
   "version": "3.0.0",
-  "description": "DUDA-BASE É UMA BOT ( BASE ) PARA VC FAZER O SEU PRÓPRIO BOT. SEM PRECISAR FAZER TUDO... ( TOTALMENTE ) ENTÃO... ESPERO QUE GOSTE :/",
+  "description": "KARLA-BASE É UMA BOT ( 😈🔥 ) PARA VC FAZER O SEU PRÓPRIO BOT. SEM PRECISAR FAZER TUDO... ( TOTALMENTE ) ENTÃO... ESPERO QUE GOSTE :/",
   "main": "index.js",
   "main": "comandos.js",
   "scripts": {
@@ -16,15 +16,15 @@
     "whatsapp",
     "js-whatsapp",
     "whatsapp",
-    "bot-duda",
+    "bot-KARLA",
     "wabot-aq",
     "multi-device",
     "MD",
     "baileys-md",
-    "Duda-Md"
+    "KARLA-Md"
   ],
   "homepage": "https://github.com/alizin-dev",
-  "author": "ALIZIN-DEV",
+  "author": "BROXX",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alizin-dev"
