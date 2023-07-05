@@ -2,13 +2,13 @@ const menu = (pushname, sender, data, hora, prefixo) => {
 
 // NÃO APAGUE ESSE ${prefixo}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DA CONFIGURAÇÃO.JS, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 
 
-// BY: ALIZIN DEV
+// BY: BROXX
 // Pode Alterar Todo o Menu 
-//  [🩸] DUDA BOT BASE
+//  [🩸] KARLA BOT 
 return `
 ╭────────────╮
-*┝━ 𖡦 Suas Informações*
-╎
+*┝━ ⽗ 🌴Suas Informações*
+╎🇲🇿 NÃO USE DORGAS!!!
 ╎🧑‍💻 Nome:「  ${pushname}  」
 ╎🛸 Número: ${sender.split('@')[0]}
 ╎📅 Data: ${data}
@@ -16,39 +16,39 @@ return `
 ╎👾 Prefix: ${prefixo}
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/Todos*
+*┝━ ⽗ 🎋Para/Todos*
 ╎
-╎𖤛 ${prefixo}Perfil
-╎𖤛 ${prefixo}Play (NOME DA MÚSICA)
-╎𖤛 ${prefixo}Gerarnick (SEU NICK AKI)
-╎𖤛 ${prefixo}Suporte
-╎𖤛 ${prefixo}Infogp
-╎𖤛 ${prefixo}Admins
-╎𖤛 ${prefixo}Toimg (Marcar/fig)
-╎𖤛 ${prefixo}S
+╎🍎⃟𝙆༻ ${prefixo}Perfil
+╎🍎⃟𝙆༻ ${prefixo}Play (NOME DA MÚSICA)
+╎🍎⃟𝙆༻ ${prefixo}Gerarnick (SEU NICK AKI)
+╎🍎⃟𝙆༻ ${prefixo}Suporte
+╎🍎⃟𝙆༻ ${prefixo}Infogp
+╎🍎⃟𝙆༻ ${prefixo}Admins
+╎🍎⃟𝙆༻ ${prefixo}Toimg (Marcar/fig)
+╎🍎⃟𝙆༻ ${prefixo}S
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/Adms*
+*┝━ ⽗ 🪁Para/Adms*
 ╎
-╎𖤛 ${prefixo}Promover (@NUMERO) 
-╎𖤛 ${prefixo}Rebaixar (@NUMERO) 
-╎𖤛 ${prefixo}Banir (@NUMERO) 
-╎𖤛 ${prefixo}Bemvindo 1 / 0
-╎𖤛 ${prefixo}Gp (FECHA, ABRIR) 
-╎𖤛 ${prefixo}Mudardk (DESCRIÇÃO) 
-╎𖤛 ${prefixo}Mudarnm (NOME) 
-╎𖤛 ${prefixo}Gplink
-╎𖤛 ${prefixo}Antilink 1 / 0
-╎𖤛 ${prefixo}Resetarlink
-╎𖤛 ${prefixo}Marcar
+╎💎⃟𝙆༻ ${prefixo}Promover (@NUMERO) 
+╎💎⃟𝙆༻ ${prefixo}Rebaixar (@NUMERO) 
+╎💎⃟𝙆༻ ${prefixo}Banir (@NUMERO) 
+╎💎⃟𝙆༻ ${prefixo}Bemvindo 1 / 0
+╎💎⃟𝙆༻ ${prefixo}Gp (FECHA, ABRIR) 
+╎💎⃟𝙆༻ ${prefixo}Mudardk (DESCRIÇÃO) 
+╎💎⃟𝙆༻ ${prefixo}Mudarnm (NOME) 
+╎💎⃟𝙆༻ ${prefixo}Gplink
+╎💎⃟𝙆༻ ${prefixo}Antilink 1 / 0
+╎💎⃟𝙆༻ ${prefixo}Resetarlink
+╎💎⃟𝙆༻ ${prefixo}Marcar
 ╰────────────╮
 ╭────────────╯
-*┝━ 𖡦 Para/dono*
+*┝━ ⽗ 👑Para/dono*
 ╎
-╎𖤛 ${prefixo}Sair
-╎𖤛 ${prefixo}Executar
-╎𖤛 ${prefixo}Seradm
-╎𖤛 ${prefixo}Sermembro
+╎❤️‍🔥⃟𝙆༻ ${prefixo}Sair
+╎❤️‍🔥⃟𝙆༻ ${prefixo}Executar
+╎❤️‍🔥⃟𝙆༻ ${prefixo}Seradm
+╎❤️‍🔥⃟𝙆༻ ${prefixo}Sermembro
 ╰────────────╯`
 }
 exports.menu = menu
