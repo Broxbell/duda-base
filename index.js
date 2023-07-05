@@ -81,18 +81,18 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
   const spinner = {
   "interval": 150,
   "frames": [
-  "🕐 D",
-  "🕑 DU",
-  "🕒 DUD",
-  "🕓 DUDA",
-  "🕔 DUDA-B",
-  "🕕 DUDA-BO",  
-  "🕖 DUDA-BOT", 
-  "🕗 DUDA-BOT CO", 
-  "🕘 DUDA-BOT CONE",
-  "🕙 DUDA-BOT CONEC", 
-  "🕚 DUDA-BOT CONECTAN", 
-  "🕛 DUDA-BOT CONECTANDO...",
+  "🕐 K",
+  "🕑 KA",
+  "🕒 KAR",
+  "🕓 KARL",
+  "🕔 KARLA-B",
+  "🕕 KARLA-BO",  
+  "🕖 KARLA-BOT", 
+  "🕗 KARLA-BOT CO", 
+  "🕘 KARLA-BOT CONE",
+  "🕙 KARLA-BOT CONEC", 
+  "🕚 KARLA-BOT CONECTAN", 
+  "🕛 KARLA-BOT CONECTANDO...",
   ]}
 //=====================================     
  let globalSpinner;
@@ -132,14 +132,14 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
 
         NomeDoBot = global.NomeDoBot
         async function startduda() {
-        var qrcode = `./QR-DA-DUDA-BOT`
+        var qrcode = `./QR-DA-KARLA-BOT`
         const { state, saveCreds } = await useMultiFileAuthState(qrcode)
         console.log(banner2.string)
         console.log(banner3.string)
         const duda = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['DUDA-BOT','opera','V4.0'],
+        browser: ['KARLA-BOT','opera','V4.0'],
         patchMessageBeforeSending: (message) => {
         const requiresPatch = !!(
         message.buttonsMessage ||
