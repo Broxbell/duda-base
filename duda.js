@@ -1,6 +1,6 @@
 
 /*
-Olá usuário do bot, eu sou o ALIZIN-DEV, O { ANONYMOUS } PRA QUEM ME CONHECE, e apresento essa versão da DUDA Bot com comandos simples. Sei que nem todos tem condições de comprar ou alugar um Bot, por isso foi criada essa versão.
+Olá usuário do bot, eu sou o BROXX, O { ANONYMOUS } PRA QUEM ME CONHECE, e apresento essa versão da DUDA Bot com comandos simples. Sei que nem todos tem condições de comprar ou alugar um Bot, por isso foi criada essa versão.
 
 Sinta-se livre pra editar o nome e as coisas no Bot, porém deixem pelo menos meus CRÉDITOS POR GENTILEZA 🗿🍷.
 
@@ -9,29 +9,29 @@ Se tiver algum problema fale comigo!
 MEU NÚMERO;
 
 /////
-ALIZIN-DEV
-wa.me/5521989701174
+BROXX💫
+wa.me/5595991311446
 ////
 
 
 ////////////
-MEU INSTA: @HACKZINHOX
+MEU INSTA: https://instagram.com/sem_problema_14?igshid=ZDc4ODBmNjlmNQ==
 //////
 
-ALIZIN DOMINA, SIM OU CLARUH?? 🙈
+BROXZIN DOMINA, SIM OU CLARUH?? 🙈
 ( TÔ GASTANDO )
 
 
 BYE BYE
 ( QUALQUER ERRO JA SABE ): BROTA NO PV;
-ALIZIN-DEV
-wa.me/5521989701174
+BROXX BELL 🪁
+wa.me/5595991311446
 
-/// BY ALIZINDEV BY ALIZIN DEV \\\\
+/// BY BROXX💞 BY KARLA💞 \\\\
 */
 
 
-/// BY ALIZINDEV BY ALIZIN DEV \\\\
+/// BY KARLA❤️ BY BROXX❤️ \\\\
 
 require('./configuracao')
 
@@ -253,7 +253,7 @@ const vcard = 'BEGIN:VCARD\n'
 ///// BOMM USO COM A BASE AI MN \\\\\
 //// FÉ, FÉ, FÉ \\\\\\
  
-const nome = m.pushName || "DUDA-BASE"
+const nome = m.pushName || "KARLA-bot✨"
 
 const NumeroDoDonoA = await duda.decodeJid(global.NumeroDoDonoA)
 
@@ -492,9 +492,9 @@ url: '【✘】Erro no url【✘】',
 },
 somente: {
 grupo: '『❗』Somente em grupos!『❗』',
-dono: '【✘】Somente para o meu criador!【✘】',
-adm: '『❗』Somente para Adms!『❗』',
-botadm: '『❗』Eu preciso ter adm pra executar esse comando.『❗』',
+dono: '【✘】Somente para o meu criador otário 🤦🏻‍♂️!【✘】',
+adm: '『❗』tu é adm fdp🤬?? não né,seu animal『❗』',
+botadm: '『❗』Eu preciso ser adm pra executar esse comando.『❗』',
 }
 }
 
@@ -517,34 +517,34 @@ if (!m.key.fromMe) return
 
 //===============INTERAÇÃO NO TERMUX=====================
 // ❗𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙽𝙾 𝙿𝚅❗
-if (!m.isGroup && isCmd) console.log( '\n ⠀╭══════⊷ ', color('[♦️] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝐍𝚯 𝐏𝐑𝐈𝐕𝜟𝐃𝚯 [♦️]','red'), '━━━━━━━━━━━━➪','\n',
+if (!m.isGroup && isCmd) console.log( '\n ⠀╭══════⊷ ', color('[🚦] BUSCANDO DADOS DO USUÁRIO  [🇲🇿]','red'), '━━━━━━━━━━━━➪','\n',
 color(' ➽ 𝐍𝐈𝐂𝐊 :','magenta'),color(pushname,'cyan'),'\n',
 color(' ➽ 𝐂𝚯𝐌𝜟𝐍𝐃𝚯 :','magenta'),color(comando,'cyan'),'\n',
 color(' ➽ 𝐇𝚯𝐑𝜟 :','magenta'),color(hora,'cyan'),'\n',
-color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[♦️] 𝐃𝐔𝐃𝜟 𝐁𝚯𝐓 𝐌𝐃 [♦️] ','red'), '━━━━━━━━━━━━➪')
+color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[💞] 𝐊𝐀𝐑𝐋𝐀 𝐁𝚯𝐓 𝐌𝐃 [💞] ','red'), '━━━━━━━━━━━━➪')
 
 // ❗𝙼𝙴𝙽𝚂𝙰𝙶𝙴𝙼 𝙽𝙾 𝙿𝚅❗
-if (!isCmd && !m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[♦️] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝐍𝚯 𝐏𝐑𝐈𝐕𝜟𝐃𝚯 [♦️]','red'), '━━━━━━━━━━━━➪','\n',
+if (!isCmd && !m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[🇲🇿] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝐍𝚯 𝐏𝐑𝐈𝐕𝜟𝐃𝚯 hackeando.. [❗]','red'), '━━━━━━━━━━━━➪','\n',
 color(' ➽ 𝐍𝐈𝐂𝐊 :','magenta'),color(pushname,'cyan'),'\n',
 color(' ➽ 𝐌𝜮𝐍𝐒𝐆 :','magenta'),color(budy,'cyan'),'\n',
 color(' ➽ 𝐇𝚯𝐑𝜟 :','magenta'),color(hora,'cyan'),'\n',
-color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[♦️] 𝐃𝐔𝐃𝜟 𝐁𝚯𝐓 𝐌𝐃 [♦️] ','red'), '━━━━━━━━━━━━➪')
+color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[❗] 𝐊𝐀𝐑𝐋𝐀 𝐁𝚯𝐓 𝐌𝐃 [🇲🇿] ','red'), '━━━━━━━━━━━━➪')
 
 // ❗𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝙼 𝙶𝚁𝚄𝙿𝙾❗
-if (isCmd && m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[♦️] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝜮𝐌 𝐆𝐑𝐔𝐏𝚯 [♦️]','red'), '━━━━━━━━━━━━➪','\n',
+if (isCmd && m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[🚦] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝜮𝐌 𝐆𝐑𝐔𝐏𝚯 clonando.. [❗]','red'), '━━━━━━━━━━━━➪','\n',
 color(' ➽ 𝐆𝐑𝐔𝐏𝚯 :','magenta'),color(groupName,'cyan'),'\n',
 color(' ➽ 𝐍𝐈𝐂𝐊 :','magenta'),color(pushname,'cyan'),'\n',
 color(' ➽ 𝐂𝚯𝐌𝜟𝐍𝐃𝚯 :','magenta'),color(comando,'cyan'),'\n',
 color(' ➽ 𝐇𝚯𝐑𝜟 :','magenta'),color(hora,'cyan'),'\n',
-color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[♦️] 𝐃𝐔𝐃𝜟 𝐁𝚯𝐓 𝐌𝐃 [♦️] ','red'), '━━━━━━━━━━━━➪')
+color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[🥰]  𝐊𝐀𝐑𝐋𝐀 𝐁𝚯𝐓 𝐌𝐃 [🏇] ','red'), '━━━━━━━━━━━━➪')
 
 // ❗𝙼𝙴𝙽𝚂𝙰𝙶𝙴𝙼 𝙴𝙼 𝙶𝚁𝚄𝙿𝙾❗
-if (!isCmd && m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[♦️] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝜮𝐌 𝐆𝐑𝐔𝐏𝚯 [♦️]','red'), '━━━━━━━━━━━━➪','\n',
+if (!isCmd && m.isGroup) console.log( '\n ⠀╭══════⊷ ', color('[👾] 𝐌𝜮𝐍𝐒𝜟𝐆𝜮𝐌 𝜮𝐌 𝐆𝐑𝐔𝐏𝚯 clonando.. [🥶]','red'), '━━━━━━━━━━━━➪','\n',
 color(' ➽ 𝐆𝐑𝐔𝐏𝚯 :','magenta'),color(groupName,'cyan'),'\n',
 color(' ➽ 𝐍𝐈𝐂𝐊 :','magenta'),color(pushname,'cyan'),'\n',
 color(' ➽ 𝐌𝜮𝐍𝐒𝐆 :','magenta'),color(budy,'cyan'),'\n',
 color(' ➽ 𝐇𝚯𝐑𝜟 :','magenta'),color(hora,'cyan'),'\n',
-color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[♦️] 𝐃𝐔𝐃𝜟 𝐁𝚯𝐓 𝐌𝐃 [♦️] ','red'), '━━━━━━━━━━━━➪')
+color(' ➽ 𝐃𝜟𝐓𝜟 :','magenta'),color(dataa,'cyan'),'\n',color(' ╰━━━━━━━━━━⊷ ','white'),color ('[🌙] 𝐊𝐀𝐑𝐋𝐀 𝐁𝚯𝐓 𝐌𝐃 [🎁] ','red'), '━━━━━━━━━━━━➪')
 
 
 // RESPOSTA DO COMANDO COM MÍDIA 
@@ -599,7 +599,7 @@ if (Number(args[0]) === 1) {
 if (isWelkom) return reply('Ja esta ativo')
 welkom.push(from)
 fs.writeFileSync('./BANCO DE DADOS/grupos/bemvindo.json', JSON.stringify(welkom))
-reply('🌀 Ativou com sucesso o recurso de bem vindo neste grupo 📝')
+reply('✨ Ativou com sucesso o recurso de bem vindo neste grupo 🇲🇿')
 } else if (Number(args[0]) === 0) {
 if (!isWelkom) return reply('Ja esta Desativado')
 pesquisar = from
